@@ -1,0 +1,13 @@
+D:\Desktop\BTTH\On_tap_CK\grade\grade\bin\Debug\grade.exe.config
+D:\Desktop\BTTH\On_tap_CK\grade\grade\bin\Debug\grade.exe
+D:\Desktop\BTTH\On_tap_CK\grade\grade\bin\Debug\grade.pdb
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.csproj.AssemblyReference.cache
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.Form1.resources
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.Properties.Resources.resources
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.csproj.GenerateResource.cache
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.csproj.CoreCompileInputs.cache
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.exe
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.pdb
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.Form2.resources
+D:\Desktop\BTTH\On_tap_CK\grade\grade\obj\Debug\grade.Form3.resources
